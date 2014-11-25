@@ -1,9 +1,6 @@
 Notes on projects details
 =========
 
-Group Project
-
-
 #Database TABLES 
 #####notetakers
 id , name , username , password ,  
